@@ -1,2 +1,1 @@
-# logstash
-Sample config
+# Sample config
